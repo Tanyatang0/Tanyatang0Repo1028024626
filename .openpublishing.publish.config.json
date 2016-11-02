@@ -1,5 +1,5 @@
 {
-  "build_entry_point": "docs",
+  "build_entry_point": "op",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
@@ -9,13 +9,13 @@
       "build_output_subfolder": "Tanyatang0Docset1028024626",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "template_folder": "_themes"
+      "build_entry_point": "op"
     }
   ],
   "notification_subscribers": [],
